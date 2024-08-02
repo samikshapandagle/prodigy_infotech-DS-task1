@@ -18,4 +18,5 @@ Outcome: A clear and informative visualization that highlights the distribution 
 # Files:
 
 data/population_data.csv: The dataset used for this task
+
 notebooks/Task1_Visualization.ipynb: Jupyter notebook with data analysis and visualization code
